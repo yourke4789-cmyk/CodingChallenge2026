@@ -5,7 +5,7 @@ public class PlayerCtrller : MonoBehaviour
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    private Rigidbody playerRigidbody;
+    public Rigidbody playerRigidbody;
     public float speed = 8f;
     void Start()
     {
@@ -29,5 +29,8 @@ public class PlayerCtrller : MonoBehaviour
     {
         //자신의 게임 오브젝트를 비활성화
         gameObject.SetActive(false);
+
+        Gamemanager gamemanager = FindFirstObjectByType<Gamemanager>();
+        gamemanager.EndGame();
     }
 }
