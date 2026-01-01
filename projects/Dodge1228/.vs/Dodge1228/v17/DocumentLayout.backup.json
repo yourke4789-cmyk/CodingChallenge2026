@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|c:\\users\\yourk\\codingchallenge2026\\projects\\dodge1228\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\assets\\script\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|c:\\users\\yourk\\codingchallenge2026\\projects\\dodge1228\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\assets\\script\\playerctrller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerctrller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\assets\\script\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6623E4-01B1-C8EC-0DBE-22B440FFBB76}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\BulletSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Gamemanager.cs",
-              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Gamemanager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Gamemanager.cs",
-              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Gamemanager.cs",
-              "RelativeToolTip": "Assets\\Script\\Gamemanager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PlayerCtrller.cs",
+              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\PlayerCtrller.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCtrller.cs",
+              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\PlayerCtrller.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCtrller.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T10:10:37.745Z",
+              "WhenOpened": "2025-12-31T09:28:19.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\BulletSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BulletSpawner.cs",
+              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\BulletSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\BulletSpawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:34:03.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:36:36.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Rotator.cs",
               "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Rotator.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Rotator.cs",
@@ -79,39 +104,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerCtrller.cs",
-              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\PlayerCtrller.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCtrller.cs",
-              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\PlayerCtrller.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayerCtrller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Gamemanager.cs",
+              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Gamemanager.cs",
+              "RelativeToolTip": "Assets\\Script\\Gamemanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T09:28:19.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BulletSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\BulletSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\BulletSpawner.cs",
-              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\BulletSpawner.cs",
-              "RelativeToolTip": "Assets\\Script\\BulletSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T09:34:03.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
-              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\Dodge1228\\Assets\\Script\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T09:36:36.364Z"
+              "WhenOpened": "2025-12-31T10:10:37.745Z"
             },
             {
               "$type": "Document",
