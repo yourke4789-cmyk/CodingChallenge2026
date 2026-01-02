@@ -16,5 +16,9 @@
 
 총 투자: 복습 2~3시간 + 코딩 2시간2분+→ 규칙(2시간) 초과 달성!
 
+* 1/2 ( 목) - 재구축 둘째날(실제 코딩 시간 2시간 투자) 
+
+bulletSpawner구현 성공, Playercontorlled SCript Die()함수 구현, 오류 수정,  GameMananger 구현중
+
 * ... (일요일까지)
 * 실패 이유: None

@@ -2,11 +2,13 @@ using UnityEngine;
 
 public class bullet : MonoBehaviour
 {
-    public float speed = 4f;
+    public float speed = 7f;
     public Rigidbody bulletRigidbody;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        bulletRigidbody = GetComponent<Rigidbody>();
+
         bulletRigidbody.linearVelocity = transform.forward * speed;
         Destroy(gameObject, 3f);
     }

@@ -8,7 +8,7 @@ public class PlayerControler : MonoBehaviour
     
     void Start()
     {
-       
+        playerRigidbody = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
@@ -27,7 +27,7 @@ public class PlayerControler : MonoBehaviour
 
     public void Die()
     {
-        
+        gameObject.SetActive(false);
     }
 
 }

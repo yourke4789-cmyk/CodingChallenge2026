@@ -24,10 +24,10 @@ public class Bulletspawner : MonoBehaviour
         if (timeAfterspawn >= spawnRate)
         {
             timeAfterspawn = 0f;
-            GameObject gameObject = Instantiate(bulletprefabs, transform.position, transform.rotation);
+            GameObject bullet = Instantiate(bulletprefabs, transform.position, transform.rotation);
             spawnRate = Random.Range(spawnRateMin, spawnRateMax);
 
-            gameObject.transform.LookAt(target);
+            bullet.transform.LookAt(target);
         }
     }
 }
