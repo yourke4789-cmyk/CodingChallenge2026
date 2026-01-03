@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\assets\\scripts\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|c:\\users\\yourk\\codingchallenge2026\\projects\\dodgewithgrok\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|c:\\users\\yourk\\codingchallenge2026\\projects\\dodgewithgrok\\assets\\scripts\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\assets\\scripts\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31EE2D86-9E06-933C-49DC-63E7C32C3AD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,53 +38,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "PlayerControler.cs",
+              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\PlayerControler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControler.cs",
+              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\PlayerControler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:23:40.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Gamemanager.cs",
               "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\Gamemanager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemanager.cs",
               "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\Gamemanager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Gamemanager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:32:32.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T12:32:32.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Bulletspawner.cs",
               "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\Bulletspawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bulletspawner.cs",
               "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\Bulletspawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bulletspawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-01T12:44:24.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "bullet.cs",
               "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\bullet.cs",
               "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:22:44.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerControler.cs",
-              "DocumentMoniker": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\PlayerControler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControler.cs",
-              "ToolTip": "C:\\Users\\yourk\\CodingChallenge2026\\projects\\DodgeWithGrok\\Assets\\Scripts\\PlayerControler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerControler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T11:23:40.925Z"
+              "WhenOpened": "2026-01-01T12:22:44.499Z",
+              "EditorCaption": ""
             }
           ]
         }

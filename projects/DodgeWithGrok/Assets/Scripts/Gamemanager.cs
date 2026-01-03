@@ -25,15 +25,15 @@ public class Gamemanager : MonoBehaviour
         if(!isGamneOVer)
         {
             surviveTime += Time.deltaTime;
+            TimeText.text = "Time:" + (int)surviveTime;
         }
         else
         {
-            /*if(Input.GetKeyDown(KeyCode, R))
+            if(Input.GetKeyDown(KeyCode.R))
             {
-
+                SceneManager.LoadScene("SampleScene");
             }
-            */
-
+            
         }
     }
 
@@ -41,10 +41,13 @@ public class Gamemanager : MonoBehaviour
     {
         isGamneOVer = true;
         GameoverText.SetActive(true);
-        float BestTime = surviveTime;
-        if(surviveTime>BestTime)
-        {
 
+        float bestTime = PlayerPrefs.GetFloat("BestTime");
+        if(surviveTime>bestTime)
+        {
+            bestTime = surviveTime;
+            PlayerPrefs.SetFloat("BestTime", bestTime);
         }
+        RecordText.text = "Best Record:" + (int)bestTime;
     }
 }
